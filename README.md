@@ -1,3 +1,3 @@
 # MySlides
 
-(github pages)[https://biwashi.github.io/MySlides]
+[github pages](https://biwashi.github.io/MySlides)
