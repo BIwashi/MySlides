@@ -35,3 +35,5 @@ revealjs_config: #以下、reveal.js用の個別設定（厳密には上の、th
   autoSlide: 5000
   loop: true
 ```
+
+
