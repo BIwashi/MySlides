@@ -26,7 +26,7 @@ INPUT_NAME:
 ```
 
 <br >
-if you don't have ruby and reveal-ck, please instll these.
+if you don't have ruby and reveal-ck, please install these.
 
 ```
 $ sudo apt install ruby
