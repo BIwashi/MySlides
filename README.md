@@ -1,6 +1,6 @@
 # MySlides
 
-
+<br >
 # just do this...
 
 if you have ruby and reveal-ck, you just do this script
@@ -24,7 +24,7 @@ INPUT_NAME:
 
 ```
 
-
+<br >
 if you don't have ruby and reveal-ck, please instll these.
 
 ```
@@ -33,9 +33,11 @@ $ sudo apt install ruby-dev
 $ sudo gem install reveal-ck
 
 ```
+
 <br >
 <br >
-<br >
+
+
 ---
 
 ## Sample slide
@@ -61,7 +63,7 @@ $ sudo gem install reveal-ck
 ## commit change for gh-pages
 
 ```
-./gh-pages
+./gh-pages.sh
 ```
 
 ## change theme
