@@ -1,6 +1,5 @@
 # MySlides
 
----
 
 # just do this...
 
@@ -34,18 +33,17 @@ $ sudo apt install ruby-dev
 $ sudo gem install reveal-ck
 
 ```
-
+<br >
+<br >
+<br >
 ---
 
-### Sample slide
+## Sample slide
 
 [github pages](https://biwashi.github.io/MySlides)
 
 
 
-<br >
-<br >
-<br >
 <br >
 
 ## make new slides from `slides.md`
