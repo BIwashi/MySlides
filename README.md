@@ -1,6 +1,7 @@
 # MySlides
 
 <br >
+
 # Just do this...
 
 if you have ruby and reveal-ck, you just do this script in your repository whihch you want to make slide in.
