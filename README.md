@@ -1,5 +1,16 @@
 # MySlides
 
+---
+
+# just do this...
+
+```
+wget 
+```
+
+---
+
+
 my reveal-ck test
 
 [github pages](https://biwashi.github.io/MySlides)
