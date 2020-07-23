@@ -4,13 +4,13 @@
 
 # Just do this...
 
-if you have ruby and reveal-ck, you just do this script in your repository whihch you want to make slide in.
+If you have ruby and reveal-ck, you just do this script in your repository whihch you want to make slide in.
 
 ```
 wget https://raw.githubusercontent.com/BIwashi/MySlides/master/setup.sh
 sudo ./setup.sh
 ```
-and type your new repository url and name
+and type your new repository URL and Name
 
 ```
 ========================================================
