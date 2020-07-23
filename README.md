@@ -41,7 +41,10 @@ $ sudo gem install reveal-ck
 
 ---
 
-## Sample slide
+<br >
+
+
+# Sample slide
 
 [github pages](https://biwashi.github.io/MySlides)
 
