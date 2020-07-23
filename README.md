@@ -5,8 +5,10 @@
 # just do this...
 
 ```
-wget 
+wget https://raw.githubusercontent.com/BIwashi/MySlides/master/setup.sh
+sudo ./setup.sh
 ```
+and type your new repository url and name
 
 ---
 
