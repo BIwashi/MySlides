@@ -1,9 +1,9 @@
 # MySlides
 
 <br >
-# just do this...
+# Just do this...
 
-if you have ruby and reveal-ck, you just do this script
+if you have ruby and reveal-ck, you just do this script in your repository whihch you want to make slide in.
 
 ```
 wget https://raw.githubusercontent.com/BIwashi/MySlides/master/setup.sh
