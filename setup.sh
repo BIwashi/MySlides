@@ -7,7 +7,7 @@
 # read new Repository URL
 echo " "
 echo "========================================================"
-echo "please type yout new Repository URL and Name"
+echo "please type you new Repository URL and Name"
 echo "ex.) https://github.com/(UserName)/(newRepository).git"
 echo "ex.) newRepository"
 echo "========================================================"
