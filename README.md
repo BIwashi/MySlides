@@ -14,7 +14,7 @@ and type your new repository URL and Name
 
 ```
 ========================================================
-please type yout new Repository URL and Name
+please type youｒ new Repository URL and Name
 ex.) https://github.com/(UserName)/(newRepository).git
 ex.) newRepository
 ========================================================
